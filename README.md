@@ -54,4 +54,4 @@ Juego clásico de la serpiente desarrollado en **C++** utilizando la interfaz gr
 
 1. Clona este repositorio:
    ```bash
-   git clone [https://github.com/MaaM02/snake-game-cpp.git](https://github.com/MaaM02/snake-game-cpp.git)
+   git clone https://github.com/MaaM02/snake-game-cpp.git
